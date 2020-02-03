@@ -3,6 +3,12 @@ photos and screenshots for the readme of the projects
 
 ## Circuit Playground Bluefruit
 
+### Maze
+<img src="https://raw.githubusercontent.com/Marius-450/screenshots/master/maze.png">
+<img src="https://raw.githubusercontent.com/Marius-450/screenshots/master/maze_creation1.png">
+<img src="https://raw.githubusercontent.com/Marius-450/screenshots/master/maze_creation.png">
+
+
 ### Etch-a-sketch
 
 <img src="/Etch-a-sketch1.jpg" height="200">
