@@ -4,7 +4,7 @@ photos and screenshots for the readme of the projects
 ## Circuit Playground Bluefruit
 
 ### Maze
-<img src="/maze.png" width="200"><img src="/maze_creation1.png" width="200"><img src="/maze_creation.png" align="right" width="200">
+<img src="/maze.png" width="200"><img src="/maze_creation1.png" width="200"><img src="/maze_creation.png" width="200">
 
 
 ### Etch-a-sketch
