@@ -4,7 +4,7 @@ photos and screenshots for the readme of the projects
 ## MatrixPortal M4
 
 ### Maz-Trix
-<img src="/maztrix1.gif" width="200"><img src="/maze_creation1.png" width="200"><img src="/DSCF1901.JPG" width="200">
+<img src="/maztrix.1.gif" width="300"><img src="/DSCF1901.JPG" width="300">
 
 
 ## Circuit Playground Bluefruit
