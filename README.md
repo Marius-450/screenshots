@@ -3,7 +3,7 @@ photos and screenshots for the readme of the projects
 
 ## MatrixPortal M4
 
-### Maz-Trix
+### [Maz-Trix](https://github.com/Marius-450/Maz-trix)
 <img src="/maztrix.1.gif" width="400"><img src="/DSCF1901.JPG" width="300">
 
 
