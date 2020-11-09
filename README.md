@@ -27,4 +27,3 @@ photos and screenshots for the readme of the projects
 
 <img src="/Chateau2.jpg" width="200"><img src="/Chateau1.jpg" width="200">
 
-test
